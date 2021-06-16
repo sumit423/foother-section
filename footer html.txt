@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+          <link rel="stylesheet" href="team.css">
+    <title>footer section</title>
+</head>
+<body>
+    <footer>
+             
+         <div class="main">
+            <h3>
+                CRIC HERO
+            </h3> 
+             <div class="copy">
+                 &copy;2021
+             </div>
+            </div>
+             <div id="com">
+                 <h3>
+                     company
+                 </h3>
+                 <ul>
+                     <li><a href="">home</a></li>
+                     <li><a href="">
+                     about us </a>
+                     </li>
+                     <li><a href="">carrer</a></li>
+                     <li><a href="">contact us</a></li>
+                 </ul>
+
+             </div>
+             <div id="cond">
+                 <h3>futher information</h3>
+                 <ul>
+                     <li>
+                         term and condition
+                     </li>
+                     <li>privacy policy</li>
+                 </ul>
+             </div>
+
+             <div class="contact">
+                 <h3>
+                     contact
+                 </h3>
+                 <div>
+                    <div class="media">
+                        <a href="https://www.linkedin.com/in/sumit-gadhwal-b43375209"><img src="img1/fb (1).png" alt=""></a>
+                        <a href="https://www.instagram.com/sumitgadwal7/" class="insta"><img src="img1/insta.png" alt=""></a>
+                        <a href="https://github.com/sumit423"><img src="img1/gb.png" alt=""></a>
+                        <a href="https://www.linkedin.com/in/sumit-gadhwal-b43375209"><img src="img1/in.png" alt=""></a>
+                        <a href="https://twitter.com/GADHWAL13"><img src="img1/tw (1).png" alt=""></a>
+                    </div>
+                 </div>
+             </div>
+
+        
+    </footer>
+</body>
+</html>

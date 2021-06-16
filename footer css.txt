@@ -1,0 +1,65 @@
+footer{
+    background-color: black;
+    color: rgb(187, 187, 187);
+    padding: 105px 20px;
+    width: 98.4%;
+    margin-top: 25.5%;
+    margin-left: -0.5%;
+    margin-right: 0%;
+}
+
+.main{
+    /* border: 2px solid red; */
+    width: 10%;
+    margin-left: 3%;
+}
+
+.copy{
+    color: burlywood;
+    margin-left:-.5% ;
+}
+#com{
+    /* border: 2px solid red; */
+    width: 30%;
+    margin-left: 20%;
+    margin-top: -5%;
+    text-decoration: none;
+
+}
+
+ #com ul li a {
+     color: seashell;
+    text-decoration: none;
+    list-style: none;
+    margin-top: 5px;
+    margin-left: -5px;
+   
+}
+#cond{
+     /* border: 2px solid red; */
+     width: 30%;
+     margin-left: 40%;
+     margin-top: -8.7%;
+     text-decoration: none;
+}
+
+#cond ul li a{
+    color: seashell;
+}
+
+.contact{
+    width: 30%;
+    margin-left: 70%;
+    margin-top: -6.7%;
+}
+a img{
+    /* border: 2px solid black; */
+    width: 40px;
+    margin-top: 5%;
+    margin-left: 4%;
+}
+.insta img{
+    /* border: 2px solid red; */
+    width: 50px;
+}
+  
